@@ -1,4 +1,3 @@
 ﻿streamlit
 torch
-pickle
 numpy
