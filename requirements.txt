@@ -1,3 +1,4 @@
 ﻿streamlit
 torch
 numpy
+scikit-learn
