@@ -1,0 +1,9 @@
+﻿streamlit
+streamlit-option-menu
+matplotlib
+pandas
+scikit-learn
+imbalanced-learn
+torch
+seaborn
+pickle
