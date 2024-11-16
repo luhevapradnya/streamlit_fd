@@ -100,8 +100,14 @@ if selected == "Home":
         unsafe_allow_html=True
     )
 
-    st.markdown("<h4 style='text-align: center;'>This Dashboard Provides Tools to Predict Financial Distress Risk</h4>", unsafe_allow_html=True)
-    st.image("fd.png", width=800)
+st.markdown(
+    """
+    <div style="text-align: center;">
+        <img src="fd.png" alt="Financial Distress" width="800">
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # Profil Creator Section
 # Profil Creator Section
